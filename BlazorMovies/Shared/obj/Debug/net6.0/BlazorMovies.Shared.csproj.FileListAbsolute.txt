@@ -1,0 +1,12 @@
+Z:\BlazerProject\BlazorMovies\BlazorMovies\Shared\bin\Debug\net6.0\BlazorMovies.Shared.deps.json
+Z:\BlazerProject\BlazorMovies\BlazorMovies\Shared\bin\Debug\net6.0\BlazorMovies.Shared.dll
+Z:\BlazerProject\BlazorMovies\BlazorMovies\Shared\bin\Debug\net6.0\ref\BlazorMovies.Shared.dll
+Z:\BlazerProject\BlazorMovies\BlazorMovies\Shared\bin\Debug\net6.0\BlazorMovies.Shared.pdb
+Z:\BlazerProject\BlazorMovies\BlazorMovies\Shared\obj\Debug\net6.0\BlazorMovies.Shared.csproj.AssemblyReference.cache
+Z:\BlazerProject\BlazorMovies\BlazorMovies\Shared\obj\Debug\net6.0\BlazorMovies.Shared.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BlazerProject\BlazorMovies\BlazorMovies\Shared\obj\Debug\net6.0\BlazorMovies.Shared.AssemblyInfoInputs.cache
+Z:\BlazerProject\BlazorMovies\BlazorMovies\Shared\obj\Debug\net6.0\BlazorMovies.Shared.AssemblyInfo.cs
+Z:\BlazerProject\BlazorMovies\BlazorMovies\Shared\obj\Debug\net6.0\BlazorMovies.Shared.csproj.CoreCompileInputs.cache
+Z:\BlazerProject\BlazorMovies\BlazorMovies\Shared\obj\Debug\net6.0\BlazorMovies.Shared.dll
+Z:\BlazerProject\BlazorMovies\BlazorMovies\Shared\obj\Debug\net6.0\ref\BlazorMovies.Shared.dll
+Z:\BlazerProject\BlazorMovies\BlazorMovies\Shared\obj\Debug\net6.0\BlazorMovies.Shared.pdb

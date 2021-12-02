@@ -1,0 +1,30 @@
+﻿<div>
+    <h3>Movies</h3>
+
+    @if (Movies == null)
+
+    {
+        <img src="https://gifimage.net/wp-content/uploads/2018/04/loading-icon-gif-6.gif" />
+    }
+    else
+    {
+        <input type="checkbox" @bind="displayButtons"/>
+
+        @foreach (var movie in Movies)
+        {
+            <IndividualMovie Movie = "movie" DisplayButtons = "displayButtons"/>
+        }
+
+    }
+
+</div>
+
+@code {
+
+    [Parameter] public List<Movie> Movies { get; set; }
+
+    bool displayButtons = false;
+
+}
+
+

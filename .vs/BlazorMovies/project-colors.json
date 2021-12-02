@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fb1de50f-962e-445e-a20d-de37161e8abc": {
+      "ProjectGuid": "fb1de50f-962e-445e-a20d-de37161e8abc",
+      "DisplayName": "BlazorMovies.Server",
+      "ColorIndex": 0
+    },
+    "789e9829-9c45-4d90-8c60-ec6417ff1a9c": {
+      "ProjectGuid": "789e9829-9c45-4d90-8c60-ec6417ff1a9c",
+      "DisplayName": "BlazorMovies.Client",
+      "ColorIndex": 1
+    },
+    "38a945e4-30a5-4916-9ebf-c2f1dea82172": {
+      "ProjectGuid": "38a945e4-30a5-4916-9ebf-c2f1dea82172",
+      "DisplayName": "BlazorMovies.Shared",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
