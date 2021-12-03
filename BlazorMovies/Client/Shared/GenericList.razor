@@ -1,0 +1,59 @@
+﻿ @typeparam TItem
+    
+    @if (List == null)
+    {
+        @if (NullTemplate != null)
+
+        {
+           
+        }
+
+        else
+        {
+            //Default content
+            <img src="https://gifimage.net/wp-content/uploads/2018/04/loading-icon-gif-6.gif" />
+        }
+
+
+    }
+    else if (List.Count == 0)
+    {
+        @if (EmptyTemplate != null)
+
+        {
+
+
+        }
+
+        else
+
+        {
+            //Default content
+            <text>No movies</text>
+        }
+
+    }
+    else
+    {
+       
+
+        @foreach (var element in List)
+        {
+            
+            @ElementTemplate(element)
+        }
+
+    }
+
+
+
+@code {
+    [Parameter] public RenderFragment NullTemplate { get; set; }
+    [Parameter] public RenderFragment EmptyTemplate { get; set; }
+    [Parameter] public RenderFragment<TItem> ElementTemplate { get; set; }
+    [Parameter] public List<TItem> List { get; set; }
+
+
+
+    bool displayButtons = false;
+}
